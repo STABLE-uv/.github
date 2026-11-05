@@ -1,0 +1,5 @@
+id,name_en,name_es,unit_en,unit_es,city,country_en,country_es,lat,lon,color,url,card_x,card_y,gradient
+uv,University of Valencia,Universitat de València,Cavanilles Institute (ICBiBE),Instituto Cavanilles (ICBiBE),Valencia,Spain,España,39.513,-0.423,#d9772f,https://www.uv.es/uvweb/cavanilles-institute-biodiversity-biology/en/introduction-1285894861820.html,0.71,0.03,2
+wur,Wageningen University|& Research,Wageningen University|& Research,,,Wageningen,Netherlands,Países Bajos,51.985,5.664,#7d5ac9,https://www.wur.nl/,0.445,0.673,
+umanitoba,University of Manitoba,University of Manitoba,,,Winnipeg,Canada,Canadá,49.808,-97.133,#3a7fc1,https://umanitoba.ca/,0.02,0.671,1
+ikiam,Regional Amazonian|University Ikiam,Universidad Regional|Amazónica Ikiam,,,Tena,Ecuador,Ecuador,-0.950,-77.864,#2e9a68,https://www.ikiam.edu.ec/,0.02,0.21,3

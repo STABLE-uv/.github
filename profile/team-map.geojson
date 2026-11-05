@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.423,
+          39.513
+        ]
+      },
+      "properties": {
+        "marker-color": "#d9772f",
+        "marker-size": "large",
+        "Institution": "University of Valencia",
+        "Unit": "Cavanilles Institute (ICBiBE)",
+        "City": "Valencia",
+        "Country": "Spain",
+        "Team": "Andreu Rico (Principal Investigator); María Antonia Rodrigo (Co-Principal Investigator); Pablo Amador (Postdoctoral Researcher); María Bisquert (Research Technician); Daniel Grillo-Ávila (Predoctoral Researcher); Carlos Pascual March (Predoctoral Researcher)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.664,
+          51.985
+        ]
+      },
+      "properties": {
+        "marker-color": "#7d5ac9",
+        "marker-size": "large",
+        "Institution": "Wageningen University & Research",
+        "City": "Wageningen",
+        "Country": "Netherlands",
+        "Team": "Paul van den Brink (Professor); Ivo Roessink (Researcher)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.133,
+          49.808
+        ]
+      },
+      "properties": {
+        "marker-color": "#3a7fc1",
+        "marker-size": "large",
+        "Institution": "University of Manitoba",
+        "City": "Winnipeg",
+        "Country": "Canada",
+        "Team": "José Luis Rodríguez-Gil (Professor)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.864,
+          -0.95
+        ]
+      },
+      "properties": {
+        "marker-color": "#2e9a68",
+        "marker-size": "large",
+        "Institution": "Regional Amazonian University Ikiam",
+        "City": "Tena",
+        "Country": "Ecuador",
+        "Team": "Marcela Cabrera (Lecturer and Researcher)"
+      }
+    }
+  ]
+}
